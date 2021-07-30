@@ -13,7 +13,7 @@ setuptools.setup(
      description="This is the approver client for bitbucket approver",
      long_description=long_description,
      long_description_content_type="text/markdown",
-     url="https://github.com/",
+     url="https://github.com/santochan/py_bitbucket_approver",
      packages=setuptools.find_packages(),
      install_requires=[
          "python-socketio>4.6.0,<5.0",

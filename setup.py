@@ -6,7 +6,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
      name='bitbucket_approver',
-     version='1.0',
+     version='1.0.1',
      scripts=['bitbucket_approver'],
      author="Feng Chen",
      author_email="santo.chan123@gmail.com",

@@ -8,7 +8,7 @@ The server is [here](https://github.com/beviz/bitbucket-auto-approve)
 ## Installation
 
 ```bash
-pip install bitucket_approver
+pip install bitbucket_approver
 ```
 
 ## Config file
